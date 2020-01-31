@@ -6,3 +6,8 @@
 git clone https://github.com/J4CKVVH173/vim_conf.git ~/.vim
 ln -s ~/.vim/vimrc.custom ~/.vimrc
 ```
+
+## Vundle
+
+После установки, произвести запск vim и выполнить в режиме команды выполнить
+`:PluginInstall`
