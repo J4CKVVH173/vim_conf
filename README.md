@@ -15,4 +15,4 @@ ln -s ~/.vim/vimrc.custom ~/.vimrc
 `:PluginInstall`
 
 ## Bug
-Может потребоваться удалить директорию Vundle.vim и установить его заново `git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`. После этого выполнить шаг `Vundle
+Может потребоваться удалить директорию Vundle.vim и установить его заново `git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`. После этого выполнить шаг `Vundle`
